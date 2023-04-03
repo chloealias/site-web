@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: #ffd60a;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.button{
+	background-color: #ffd60a;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
